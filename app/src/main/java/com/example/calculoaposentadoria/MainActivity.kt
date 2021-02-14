@@ -23,7 +23,7 @@ class MainActivity : Activity() {
             resultado = if (sexo == "Masculino") {
                 65 - idade
             } else {
-                60 - idade
+                62 - idade
             }
             val txtmostrar = "Falta $resultado anos para se aposentar"
             txtResultado.text = txtmostrar
