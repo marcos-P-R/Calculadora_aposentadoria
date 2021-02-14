@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculo Aposentadoria</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="msg_inicio">Calcule quando falta para a aposentadoria</string>
+    <string name="msg_escolha_sexo">Escolha o sexo</string>
+    <string name="msg_idade">Informe sua Idade</string>
+</resources>
